@@ -1,0 +1,61 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/hyungwooklee/.emacs.d/recentf" . 3542)
+ ("/Users/hyungwooklee/.emacs.d/ede-projects.el" . 86)
+ ("/Users/hyungwooklee/Projects/servo/"
+  (dired-filename . "/Users/hyungwooklee/Projects/servo/components"))
+ ("/Users/hyungwooklee/Projects/servo/components/"
+  (dired-filename . "/Users/hyungwooklee/Projects/servo/components/layout"))
+ ("/Users/hyungwooklee/Projects/servo/components/layout/flex.rs" . 1994)
+ ("/Users/hyungwooklee/Projects/servo/components/layout/"
+  (dired-filename . "/Users/hyungwooklee/Projects/servo/components/layout/table.rs"))
+ ("/Users/hyungwooklee/Projects/servo/components/layout/table.rs" . 3974)
+ ("/Users/hyungwooklee/Projects/servo/components/script/dom/htmltablecaptionelement.rs" . 704)
+ ("/Users/hyungwooklee/.emacs.d/elpa/rust-mode-20150828.2055/rust-mode-autoloads.el" . 405)
+ ("/Users/hyungwooklee/.emacs.d/elpa/"
+  (dired-filename . "/Users/hyungwooklee/.emacs.d/elpa/ac-cider-20150306.254"))
+ ("/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/js/"
+  (dired-filename . "/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/js/.."))
+ ("/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/"
+  (dired-filename . "/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/.."))
+ ("/Users/hyungwooklee/Sites/udacity/"
+  (dired-filename . "/Users/hyungwooklee/Sites/udacity/.."))
+ ("/Users/hyungwooklee/Sites/"
+  (dired-filename . "/Users/hyungwooklee/Sites/javascript"))
+ ("/Users/hyungwooklee/Sites/javascript/"
+  (dired-filename . "/Users/hyungwooklee/Sites/javascript/test.html"))
+ ("/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/js/resumeBuilder.js" . 38)
+ ("/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/js/helper.js" . 7167)
+ ("/Users/hyungwooklee/Sites/udacity/frontend-nanodegree-resume/js/jQuery.js" . 24677)
+ ("/Users/hyungwooklee/.emacs.d/elpa/skewer-mode-20150914.1304/skewer-mode-autoloads.el" . 2716)
+ ("/Users/hyungwooklee/.emacs.d/elpa/simple-httpd-20150430.1755/simple-httpd-autoloads.el" . 759)
+ ("/Users/hyungwooklee/.emacs.d/elpa/js2-mode-20150911.116/js2-mode-autoloads.el" . 1257)
+ ("/Users/hyungwooklee/.emacs.d/elpa/f-20150605.927/f-autoloads.el" . 211)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/css/StyleResolver.h" . 7721)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/css/StyleResolver.cpp" . 16711)
+ ("/Users/hyungwooklee/Projects/webkit/WebKitBuild/Debug/DerivedSources/WebCore/WebCore/rendering/SimpleLineLayoutTextFragmentIterator.cpp" . 2319)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/css/CSSToLengthConversionData.h" . 1951)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/rendering/RenderElement.cpp" . 4578)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/style/StyleResolveForDocument.cpp" . 4121)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/overscroll_navigation_overlay.cc" . 9007)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/overscroll_navigation_overlay.h" . 4295)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/overscroll_navigation_overlay_unittest.cc" . 10119)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/overscroll_window_animation.h" . 3191)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/renderer_host/render_widget_host_view_aura_unittest.cc" . 2299)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/gesture_nav_simple.cc" . 6469)
+ ("/Users/hyungwooklee/Projects/chromium/src/content/browser/web_contents/aura/overscroll_window_animation.cc" . 1558)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/rendering/RenderView.cpp" . 39564)
+ ("/Users/hyungwooklee/Projects/webkit/Source/ThirdParty/ANGLE/src/libANGLE/renderer/d3d/d3d9/Renderer9.cpp" . 92464)
+ ("/Users/hyungwooklee/Projects/webkit/Source/ThirdParty/ANGLE/src/libANGLE/renderer/d3d/d3d9/SwapChain9.cpp" . 7226)
+ ("/Users/hyungwooklee/Projects/webkit/WebKitBuild/Debug/DerivedSources/WebCore/WebCore/accessibility/AccessibilityObject.cpp" . 60464)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebKit/win/WebView.cpp" . 27314)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/loader/FrameLoader.cpp" . 14229)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/dom/Document.cpp" . 58694)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/css/MediaQueryMatcher.cpp" . 1709)
+ ("/Users/hyungwooklee/Projects/webkit/Source/WebCore/css/MediaQueryList.h" . 2093)
+ ("/Users/hyungwooklee/.tex" . 950)
+ ("/Users/hyungwooklee/"
+  (dired-filename . "/Users/hyungwooklee/Projects"))
+ ("/Users/hyungwooklee/Projects/"
+  (dired-filename . "/Users/hyungwooklee/Projects/webkit"))
+ ("/Users/hyungwooklee/.vimrc" . 1119)
+ ("/Users/hyungwooklee/.emacs.d/init.el" . 36256))
